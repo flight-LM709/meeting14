@@ -1,0 +1,42 @@
+.young-serif-regular {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.head img {
+    display: block; margin-left: auto; margin-right: auto; width: 50%; border-radius: 20px;
+}
+.prep {
+    background-color: rgb(235, 224, 255);
+    max-width: 400px;
+    border-radius: 10px;
+}
+.prep h3{
+    color: rgb(96, 31, 157);
+}
+.ingredients h2 {
+    color: rgb(87, 56, 56);
+}
+.instruction h2 {
+    color: rgb(87, 56, 56);
+}
+.instruction ol, li {
+    color: rgb(87, 56, 56);
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+span {
+    font-weight: bold;
+}
+.nutrition h2 {
+    color: rgb(87, 56, 56);
+}
+.nutrition span {
+    font-weight: bold;
+    color: rgb(87, 56, 56);
+}
+table, tr, td, th{
+    border-bottom: 2px solid rgb(209, 209, 209);
+    border-collapse: collapse;
+    padding: 10px;
+}
